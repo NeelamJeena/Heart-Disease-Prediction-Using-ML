@@ -5,9 +5,12 @@ In medical science, machine learning is used for diseases diagnoses. With this, 
 
 Description:
 A machine learning model to classify if the patient is at a risk of getting a heart attack or not based on the  given data of the  patient.
+
 Environment:
 Jupyter Notebook
+
 Language:
 Python
+
 Domain:
 Healthcare
